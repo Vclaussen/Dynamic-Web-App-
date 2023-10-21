@@ -1,0 +1,27 @@
+Source:
+	customer
+Input:
+	width
+	length
+	thickness
+	bag size (option)
+processing:
+	1.calculate the total cubic yards
+	2. calculate number of bags and round up to nearest integer 
+	3. multiply number of rounded up bags to the cost per pag
+	4.create html printing method to display these calculations
+	5.call html method to jsp page
+output:
+	the header
+	slap input values:
+	W
+	L
+	T
+	
+	this will require the following
+	
+	total cubic yards
+	total number of bags
+	estimated cost
+destination:
+	customer

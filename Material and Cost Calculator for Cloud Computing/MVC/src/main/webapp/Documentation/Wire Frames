@@ -1,0 +1,28 @@
+for index.jsp
+
+Welcome to my material and cost calculator
+
+Width:
+Height:
+Thickness:
+submit  reset
+
+---------------
+
+for result.jsp
+
+	Here is your results:
+	
+	slap input values:
+	Width: x
+	Length: y
+	Thickness: z
+	bag size: a
+	
+	this will require the following:
+	
+	total cubic yards: x
+	total number of bags: y
+	estimated cost: z
+	
+	calculate again

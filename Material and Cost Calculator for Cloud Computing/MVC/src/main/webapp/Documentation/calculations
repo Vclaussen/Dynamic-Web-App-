@@ -1,0 +1,10 @@
+going to need three inputs
+width / 3
+length / 3
+thickness is in inches so / 36 to get to yard
+
+multiply those together to get cubic yards
+
+then take that number(x) and multiply by the cu. yds. per bag - will call this (y)
+
+then take y and multiply by cost to get the estimated cost
